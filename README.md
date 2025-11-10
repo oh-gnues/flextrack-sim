@@ -1,2 +1,1 @@
-# flextrack-sim
-Flexible Multi-Sensor Tracking &amp; Fusion
+# FlexTrack: Flexible Multi-Sensor Tracking &amp; Fusion
